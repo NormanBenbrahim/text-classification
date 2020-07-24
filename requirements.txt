@@ -1,0 +1,8 @@
+kaggle
+tensorflow
+tensorflow_hub
+ipython
+pandas
+numpy
+seaborn
+sklearn
