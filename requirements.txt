@@ -1,6 +1,6 @@
-kaggle
 tensorflow
 tensorflow_hub
+tensorflow_datasets
 ipython
 pandas
 numpy
